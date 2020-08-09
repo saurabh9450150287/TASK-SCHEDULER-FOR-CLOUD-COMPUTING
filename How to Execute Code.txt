@@ -1,0 +1,7 @@
+1 - Open DevC++ editor .
+2-  Go to File then click Open Project .
+3-  Click on HEFT_ALGORITHM (dev c++ project file) .
+4-  Go to HEFT_algo.cpp .
+5-  Click on compile and run.
+6-  Pass the necessary parameters required for constructing the random graph.
+7-  You will get the output in tabular form.

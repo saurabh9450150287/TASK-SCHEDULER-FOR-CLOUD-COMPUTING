@@ -51,10 +51,11 @@ avg(w(i)) * {1-0.5*&beta;} <= w(i,j) <= avg(w(i)) * {1+0.5*&beta;}
 
 ## Screenshots
 <br />
-## INPUT
-![image](https://user-images.githubusercontent.com/43703209/89745925-5f005280-dad4-11ea-9cca-564cdd609def.png)
+### INPUT
 
-<br />
-## OUTPUT
+![image]( https://user-images.githubusercontent.com/43703209/89745925-5f005280-dad4-11ea-9cca-564cdd609def.png )
+
+### OUTPUT
+
 ![image](https://user-images.githubusercontent.com/43703209/89745946-7b03f400-dad4-11ea-8727-a9f402893e70.png)
 

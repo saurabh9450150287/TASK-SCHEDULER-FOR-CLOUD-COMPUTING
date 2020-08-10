@@ -50,7 +50,6 @@ system is randomly set from the following range: <br />
 avg(w(i)) * {1-0.5*&beta;} <= w(i,j) <= avg(w(i)) * {1+0.5*&beta;}
 
 ## Screenshots
-<br />
 ### INPUT
 
 ![image]( https://user-images.githubusercontent.com/43703209/89745925-5f005280-dad4-11ea-9cca-564cdd609def.png )
